@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 0,
+    "_nombre": "Damian Reyes",
+    "_rol": "LIDERPROYECTO",
+    "_foto": "RRHH\\imagenes\\perfil_1.jpeg",
+    "_desempenio": 1
+  },
+  {
+    "_id": 1,
+    "_nombre": "Victor Fernandez",
+    "_rol": "PROGRAMADOR",
+    "_foto": "RRHH\\imagenes\\perfil_2.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 2,
+    "_nombre": "Sergio Perez",
+    "_rol": "ARQUITECTO",
+    "_foto": "RRHH\\imagenes\\perfil_3.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 3,
+    "_nombre": "Enrique Gonzales",
+    "_rol": "PROGRAMADOR",
+    "_foto": "RRHH\\imagenes\\perfil_4.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 4,
+    "_nombre": "Juan Rodriguez",
+    "_rol": "PROGRAMADOR",
+    "_foto": "RRHH\\imagenes\\perfil_5.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 5,
+    "_nombre": "Lian Hub",
+    "_rol": "LIDERPROYECTO",
+    "_foto": "RRHH\\imagenes\\perfil_6.jpeg",
+    "_desempenio": 1
+  },
+  {
+    "_id": 6,
+    "_nombre": "Federico Noria",
+    "_rol": "LIDERPROYECTO",
+    "_foto": "RRHH\\imagenes\\perfil_7.jpeg",
+    "_desempenio": 1
+  },
+  {
+    "_id": 7,
+    "_nombre": "Juan Roman Quiroga",
+    "_rol": "LIDERPROYECTO",
+    "_foto": "RRHH\\imagenes\\perfil_8.jpeg",
+    "_desempenio": 3
+  },
+  {
+    "_id": 8,
+    "_nombre": "Elizabeth Ferrer",
+    "_rol": "LIDERPROYECTO",
+    "_foto": "RRHH\\imagenes\\perfil_9.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 9,
+    "_nombre": "Nicolas Dario Lower",
+    "_rol": "ARQUITECTO",
+    "_foto": "RRHH\\imagenes\\perfil_10.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 10,
+    "_nombre": "Micaela Analia Britez",
+    "_rol": "PROGRAMADOR",
+    "_foto": "RRHH\\imagenes\\perfil_11.jpeg",
+    "_desempenio": 3
+  },
+  {
+    "_id": 11,
+    "_nombre": "Julieta Vera",
+    "_rol": "ARQUITECTO",
+    "_foto": "RRHH\\imagenes\\perfil_12.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 12,
+    "_nombre": "Maria Cham",
+    "_rol": "ARQUITECTO",
+    "_foto": "RRHH\\imagenes\\perfil_13.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 13,
+    "_nombre": "Hernan Becerra",
+    "_rol": "ARQUITECTO",
+    "_foto": "RRHH\\imagenes\\perfil_14.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 14,
+    "_nombre": "Magali Nisman",
+    "_rol": "TESTER",
+    "_foto": "RRHH\\imagenes\\perfil_15.jpeg",
+    "_desempenio": 5
+  },
+  {
+    "_id": 15,
+    "_nombre": "Xian Xuan",
+    "_rol": "TESTER",
+    "_foto": "RRHH\\imagenes\\perfil_16.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 16,
+    "_nombre": "Jhon Carper",
+    "_rol": "TESTER",
+    "_foto": "RRHH\\imagenes\\perfil_17.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 17,
+    "_nombre": "Jhon Carper",
+    "_rol": "TESTER",
+    "_foto": "RRHH\\imagenes\\perfil_18.jpeg",
+    "_desempenio": 4
+  },
+  {
+    "_id": 18,
+    "_nombre": "Robert Nash",
+    "_rol": "TESTER",
+    "_foto": "RRHH\\imagenes\\perfil_19.jpeg",
+    "_desempenio": 3
+  },
+  {
+    "_id": 19,
+    "_nombre": "Jazmin Gill",
+    "_rol": "PROGRAMADOR",
+    "_foto": "RRHH\\imagenes\\perfil_20.jpeg",
+    "_desempenio": 4
+  }
+]
